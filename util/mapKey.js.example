@@ -1,0 +1,5 @@
+const API_KEY = 'your google map api key';
+
+export default API_KEY; 
+
+
