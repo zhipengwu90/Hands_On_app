@@ -12,6 +12,8 @@ Users can post requests for errands or small tasks to be completed, and accept t
 
 ---
 
+
+
 ### Technical Details
 
 This application is built using React Native and Expo. The database is powered by MongoDB.
